@@ -7,26 +7,35 @@ A responsive, user-friendly, and secure admin dashboard for managing users, role
 **User Management**
 
 •View and manage users in a tabular format.
+
 •Add, edit, and delete user accounts.
+
 •Assign roles to users and toggle their status (Active/Inactive).
 
 **Role Management**
 
 •Create, edit, and delete roles.
+
 •Define roles with specific permissions (e.g., Read, Write, Delete).
+
 •View the list of all roles with detailed permission breakdowns.
 
 **Permission Management**
 
 •Assign and modify permissions dynamically.
+
 •Clearly visualize permissions using intuitive UI components (e.g., checkboxes, toggles).
+
 •Support for custom permission attributes.
 
 **Additional Features**
 
 •Responsive design for seamless usage across devices (desktop, tablet, and mobile).
+
 •Real-time API simulation using mock server (if applicable).
+
 •Enhanced user experience with search, filtering, and sorting capabilities.
+
 •Interactive modals and confirmation prompts for critical actions.
 
 
