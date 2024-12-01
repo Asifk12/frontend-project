@@ -1,4 +1,4 @@
-# Role-Based Access Control (RBAC) UI
+## Role-Based Access Control (RBAC) UI
 
 This project is a Role-Based Access Control (RBAC) User Interface designed to manage users, roles, and permissions efficiently. The goal is to provide a secure and user-friendly admin dashboard for administrators to assign roles, define permissions, and manage user access dynamically.
 
@@ -7,35 +7,37 @@ This project is a Role-Based Access Control (RBAC) User Interface designed to ma
 The RBAC UI is designed to help administrators manage users, roles, and permissions, offering functionalities to:
 
 
-1.create, edit, and delete users
-2.Assign roles and permissions dynamically to users
-3.Search and filter users
+- create, edit, and delete users
+
+- Assign roles and permissions dynamically to users
+  
+- Search and filter users
 
 ## Features
 
-### Dashboard:
+1. ### Dashboard:
 
 View a comprehensive overview of users and their roles in the system.
 
 
-### Manage Users:
+2. ### Manage Users:
 
 Add, edit, and delete users while managing their status (Active/Inactive).
 
 
-### Manage Roles:
+3. ### Manage Roles:
 
 
 Define new roles, edit existing roles, and delete roles as necessary.
 
 
-### Manage Permissions:
+4. ### Manage Permissions:
 
 
 Assign and modify permissions for roles dynamically.
 
 
-### Search and Filter:
+5. ### Search and Filter:
 
 Search for users based on their name or email and filter them as needed.
 
