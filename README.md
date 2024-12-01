@@ -1,42 +1,52 @@
 # Role-Based Access Control (RBAC) UI
 
-A responsive, user-friendly, and secure admin dashboard for managing users, roles, and permissions. This project demonstrates a fully functional **Role-Based Access Control (RBAC)** interface, showcasing best practices in UI/UX design, frontend development, and dynamic permission management.
+This project is a Role-Based Access Control (RBAC) User Interface designed to manage users, roles, and permissions efficiently. The goal is to provide a secure and user-friendly admin dashboard for administrators to assign roles, define permissions, and manage user access dynamically.
 
-**Features**
+## Project Overview
 
-**User Management**
+The RBAC UI is designed to help administrators manage users, roles, and permissions, offering functionalities to:
 
-•View and manage users in a tabular format.
 
-•Add, edit, and delete user accounts.
+1.create, edit, and delete users
+2.Assign roles and permissions dynamically to users
+3.Search and filter users
 
-•Assign roles to users and toggle their status (Active/Inactive).
+## Features
 
-**Role Management**
+### Dashboard:
 
-•Create, edit, and delete roles.
+View a comprehensive overview of users and their roles in the system.
 
-•Define roles with specific permissions (e.g., Read, Write, Delete).
 
-•View the list of all roles with detailed permission breakdowns.
+### Manage Users:
 
-**Permission Management**
+Add, edit, and delete users while managing their status (Active/Inactive).
 
-•Assign and modify permissions dynamically.
 
-•Clearly visualize permissions using intuitive UI components (e.g., checkboxes, toggles).
+### Manage Roles:
 
-•Support for custom permission attributes.
 
-**Additional Features**
+Define new roles, edit existing roles, and delete roles as necessary.
 
-•Responsive design for seamless usage across devices (desktop, tablet, and mobile).
 
-•Real-time API simulation using mock server (if applicable).
+### Manage Permissions:
 
-•Enhanced user experience with search, filtering, and sorting capabilities.
 
-•Interactive modals and confirmation prompts for critical actions.
+Assign and modify permissions for roles dynamically.
+
+
+### Search and Filter:
+
+Search for users based on their name or email and filter them as needed.
+
+
+
+## Technology Stack
+
+- React.js for building the user interface.
+- React Router for managing routing across different pages.
+- Styled-components for CSS-in-JS styling.
+- Context API to manage global state (e.g. theme management).
 
 
 # Getting Started with Create React App
